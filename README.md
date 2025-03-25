@@ -87,3 +87,4 @@ If you like the template, please star this repository to inspire the team to cre
 - Upgraded to Next.js 15
 - Update framer-motion to v12.0.6 for React 19 support.
 # miracle-parks
+# miracle-parks
